@@ -1,0 +1,748 @@
+[INFO ] 2025-05-03 14:56:21.506 [main] Main - Hello, World!
+[INFO ] 2025-05-03 15:17:12.317 [main] Server - Starting server...
+[INFO ] 2025-05-03 15:17:19.816 [main] Client - Starting client...
+[INFO ] 2025-05-03 15:17:19.819 [main] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 15:17:19.819 [main] Server - Current thread: main
+[INFO ] 2025-05-03 15:18:09.190 [main] Server - Starting server...
+[INFO ] 2025-05-03 15:18:13.265 [main] Client - Starting client...
+[INFO ] 2025-05-03 15:18:13.269 [Thread-0] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 15:18:13.270 [Thread-0] Server - Current thread: Thread-0
+[INFO ] 2025-05-03 15:19:03.704 [main] Client - Starting client...
+[INFO ] 2025-05-03 15:19:03.708 [Thread-1] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 15:19:03.708 [Thread-1] Server - Current thread: Thread-1
+[INFO ] 2025-05-03 15:19:57.368 [main] Client - Starting client...
+[INFO ] 2025-05-03 15:19:57.371 [Thread-2] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 15:19:57.372 [Thread-2] Server - Current thread: Thread-2
+[INFO ] 2025-05-03 15:22:21.415 [main] Client - Starting client...
+[INFO ] 2025-05-03 15:22:21.418 [main] Client - Sending message...
+[INFO ] 2025-05-03 15:22:21.418 [Thread-3] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 15:22:21.419 [Thread-3] Server - Current thread: Thread-3
+[INFO ] 2025-05-03 15:22:21.419 [Thread-3] Server - Hello World
+[INFO ] 2025-05-03 15:25:31.214 [main] Server - Starting server...
+[INFO ] 2025-05-03 15:25:35.095 [main] Client - Starting client...
+[INFO ] 2025-05-03 15:25:35.098 [main] Client - Sending message...
+[INFO ] 2025-05-03 15:25:35.102 [Thread-0] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 15:25:35.103 [Thread-0] Server - Current thread: Thread-0
+[INFO ] 2025-05-03 15:25:35.103 [Thread-0] Server - Hello World
+[INFO ] 2025-05-03 15:25:50.813 [main] Client - Starting client...
+[INFO ] 2025-05-03 15:25:50.816 [main] Client - Sending message...
+[INFO ] 2025-05-03 15:25:50.820 [Thread-1] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 15:25:50.820 [Thread-1] Server - Current thread: Thread-1
+[INFO ] 2025-05-03 15:25:50.820 [Thread-1] Server - Hello World
+[INFO ] 2025-05-03 15:26:51.200 [main] Server - Starting server...
+[INFO ] 2025-05-03 15:26:55.117 [main] Client - Starting client...
+[INFO ] 2025-05-03 15:26:55.119 [main] Client - Sending message...
+[INFO ] 2025-05-03 15:26:55.124 [Thread-0] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 15:26:55.124 [Thread-0] Server - Current thread: Thread-0
+[INFO ] 2025-05-03 15:26:55.124 [Thread-0] Server - Hello World
+[INFO ] 2025-05-03 15:26:59.844 [main] Client - Starting client...
+[INFO ] 2025-05-03 15:26:59.847 [main] Client - Sending message...
+[INFO ] 2025-05-03 15:26:59.848 [Thread-1] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 15:26:59.848 [Thread-1] Server - Current thread: Thread-1
+[INFO ] 2025-05-03 15:26:59.848 [Thread-1] Server - Hello World
+[INFO ] 2025-05-03 15:27:34.257 [main] Server - Starting server...
+[INFO ] 2025-05-03 15:27:37.577 [main] Client - Starting client...
+[INFO ] 2025-05-03 15:27:37.580 [main] Client - Sending message...
+[INFO ] 2025-05-03 15:27:37.586 [Thread-0] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 15:27:37.587 [Thread-0] Server - Current thread: Thread-0
+[INFO ] 2025-05-03 15:27:37.587 [Thread-0] Server - All threads: 3
+[INFO ] 2025-05-03 15:27:37.587 [Thread-0] Server - Hello World
+[INFO ] 2025-05-03 15:27:45.006 [main] Client - Starting client...
+[INFO ] 2025-05-03 15:27:45.010 [main] Client - Sending message...
+[INFO ] 2025-05-03 15:27:45.011 [Thread-1] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 15:27:45.012 [Thread-1] Server - Current thread: Thread-1
+[INFO ] 2025-05-03 15:27:45.012 [Thread-1] Server - All threads: 4
+[INFO ] 2025-05-03 15:27:45.012 [Thread-1] Server - Hello World
+[INFO ] 2025-05-03 15:31:30.215 [main] Server - Starting server...
+[INFO ] 2025-05-03 15:31:33.329 [main] Client - Starting client...
+[INFO ] 2025-05-03 15:31:33.333 [main] Client - Sending message...
+[INFO ] 2025-05-03 15:31:33.335 [Thread-0] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 15:31:33.336 [Thread-0] Server - Current thread: Thread-0
+[INFO ] 2025-05-03 15:31:33.336 [Thread-0] Server - All threads: 3
+[INFO ] 2025-05-03 15:31:33.336 [Thread-0] Server - Hello World
+[INFO ] 2025-05-03 15:31:38.681 [main] Client - Starting client...
+[INFO ] 2025-05-03 15:31:38.684 [main] Client - Sending message...
+[INFO ] 2025-05-03 15:31:38.685 [Thread-1] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 15:31:38.685 [Thread-1] Server - Current thread: Thread-1
+[INFO ] 2025-05-03 15:31:38.685 [Thread-1] Server - All threads: 3
+[INFO ] 2025-05-03 15:31:38.685 [Thread-1] Server - Hello World
+[INFO ] 2025-05-03 15:32:45.273 [main] Server - Starting server...
+[INFO ] 2025-05-03 15:32:48.893 [main] Client - Starting client...
+[INFO ] 2025-05-03 15:32:48.896 [main] Client - Sending message...
+[INFO ] 2025-05-03 15:32:48.901 [Thread-0] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 15:32:48.901 [Thread-0] Server - Current thread: Thread-0
+[INFO ] 2025-05-03 15:32:48.901 [Thread-0] Server - All threads: 3
+[INFO ] 2025-05-03 15:32:48.902 [Thread-0] Server - Hello World
+[INFO ] 2025-05-03 15:32:53.471 [main] Client - Starting client...
+[INFO ] 2025-05-03 15:32:53.474 [main] Client - Sending message...
+[INFO ] 2025-05-03 15:32:53.475 [Thread-1] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 15:32:53.475 [Thread-1] Server - Current thread: Thread-1
+[INFO ] 2025-05-03 15:32:53.475 [Thread-1] Server - All threads: 4
+[INFO ] 2025-05-03 15:32:53.476 [Thread-1] Server - Hello World
+[INFO ] 2025-05-03 16:07:22.513 [main] Server - Starting server...
+[INFO ] 2025-05-03 16:07:25.927 [main] Client - Starting client...
+[INFO ] 2025-05-03 16:07:25.930 [main] Client - Sending message...
+[INFO ] 2025-05-03 16:07:25.931 [Thread-0] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 16:07:25.932 [Thread-0] Server - Current thread: Thread-0
+[INFO ] 2025-05-03 16:07:25.932 [Thread-0] Server - All threads: 3
+[INFO ] 2025-05-03 16:07:25.933 [Thread-0] Server - Hello World
+[INFO ] 2025-05-03 16:07:31.816 [main] Client - Starting client...
+[INFO ] 2025-05-03 16:07:31.819 [main] Client - Sending message...
+[INFO ] 2025-05-03 16:07:31.824 [Thread-1] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 16:07:31.824 [Thread-1] Server - Current thread: Thread-1
+[INFO ] 2025-05-03 16:07:31.824 [Thread-1] Server - All threads: 4
+[INFO ] 2025-05-03 16:07:31.825 [Thread-1] Server - Hello World
+[INFO ] 2025-05-03 16:07:51.992 [main] Server - Starting server...
+[INFO ] 2025-05-03 16:07:57.329 [main] Client - Starting client...
+[INFO ] 2025-05-03 16:07:57.332 [main] Client - Sending message...
+[INFO ] 2025-05-03 16:07:57.337 [Thread-0] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 16:07:57.337 [Thread-0] Server - Current thread: Thread-0
+[INFO ] 2025-05-03 16:07:57.340 [Thread-0] Server - All threads: 2
+[INFO ] 2025-05-03 16:08:02.628 [Thread-0] Server - Hello World
+[INFO ] 2025-05-03 16:09:54.863 [main] Client - Starting client...
+[INFO ] 2025-05-03 16:09:58.452 [Thread-1] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 16:09:58.453 [Thread-1] Server - Current thread: Thread-1
+[INFO ] 2025-05-03 16:09:58.453 [Thread-1] Server - All threads: 3
+[INFO ] 2025-05-03 16:10:03.122 [main] Client - Sending message...
+[INFO ] 2025-05-03 16:10:04.124 [Thread-1] Server - Hello World
+[INFO ] 2025-05-03 16:30:43.118 [main] Server - Starting server...
+[INFO ] 2025-05-03 16:30:48.540 [main] Client - Starting client...
+[INFO ] 2025-05-03 16:30:48.553 [main] Client - Sending message...
+[INFO ] 2025-05-03 16:30:48.554 [Thread-0] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 16:30:48.555 [Thread-0] Server - Current thread: Thread-0
+[INFO ] 2025-05-03 16:30:48.557 [Thread-0] Server - All threads: 2
+[INFO ] 2025-05-03 16:30:48.558 [Thread-0] Server - Hello World
+[INFO ] 2025-05-03 16:36:38.355 [main] Server - Starting server...
+[INFO ] 2025-05-03 16:36:42.428 [main] Client - Starting client...
+[INFO ] 2025-05-03 16:36:42.437 [main] Client - Sending message...
+[INFO ] 2025-05-03 16:36:42.439 [Thread-0] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 16:36:42.439 [Thread-0] Server - Current thread: Thread-0
+[INFO ] 2025-05-03 16:36:42.442 [Thread-0] Server - All threads: 2
+[INFO ] 2025-05-03 16:36:42.443 [Thread-0] Server - Hello World
+[ERROR] 2025-05-03 16:37:55.012 [main] Client - Connection reset
+[INFO ] 2025-05-03 16:38:03.377 [main] Server - Starting server...
+[INFO ] 2025-05-03 16:38:08.838 [main] Client - Starting client...
+[INFO ] 2025-05-03 16:38:08.848 [main] Client - Sending message...
+[INFO ] 2025-05-03 16:38:08.849 [Thread-0] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 16:38:08.849 [Thread-0] Server - Current thread: Thread-0
+[INFO ] 2025-05-03 16:38:08.851 [Thread-0] Server - All threads: 2
+[INFO ] 2025-05-03 16:38:08.852 [Thread-0] Server - Hello World
+[INFO ] 2025-05-03 16:38:08.861 [Thread-0] RepeatMessageStrategy - Repeating back to client...
+[ERROR] 2025-05-03 16:40:38.605 [Thread-0] Server - Connection reset
+[INFO ] 2025-05-03 16:40:44.389 [main] Client - Starting client...
+[INFO ] 2025-05-03 16:40:44.397 [main] Client - Sending message...
+[INFO ] 2025-05-03 16:40:44.398 [Thread-1] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 16:40:44.398 [Thread-1] Server - Current thread: Thread-1
+[INFO ] 2025-05-03 16:40:44.398 [Thread-1] Server - All threads: 2
+[INFO ] 2025-05-03 16:40:44.398 [Thread-1] Server - Hello World
+[INFO ] 2025-05-03 16:40:44.398 [Thread-1] RepeatMessageStrategy - Repeating back to client...
+[ERROR] 2025-05-03 16:41:14.009 [main] Client - Connection reset
+[INFO ] 2025-05-03 16:41:18.242 [main] Server - Starting server...
+[INFO ] 2025-05-03 16:41:20.587 [main] Client - Starting client...
+[INFO ] 2025-05-03 16:41:20.597 [main] Client - Sending message...
+[INFO ] 2025-05-03 16:41:20.598 [Thread-0] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 16:41:20.598 [Thread-0] Server - Current thread: Thread-0
+[INFO ] 2025-05-03 16:41:20.600 [Thread-0] Server - All threads: 2
+[INFO ] 2025-05-03 16:41:20.601 [Thread-0] Server - Hello World
+[INFO ] 2025-05-03 16:41:20.602 [Thread-0] RepeatMessageStrategy - Repeating back to client...
+[ERROR] 2025-05-03 16:43:15.065 [Thread-0] Server - Connection reset
+[INFO ] 2025-05-03 16:43:18.388 [main] Client - Starting client...
+[INFO ] 2025-05-03 16:43:18.397 [main] Client - Sending message...
+[INFO ] 2025-05-03 16:43:18.400 [Thread-1] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 16:43:18.400 [Thread-1] Server - Current thread: Thread-1
+[INFO ] 2025-05-03 16:43:18.400 [Thread-1] Server - All threads: 2
+[INFO ] 2025-05-03 16:43:18.400 [Thread-1] Server - Hello World
+[INFO ] 2025-05-03 16:43:18.400 [Thread-1] RepeatMessageStrategy - Repeating back to client...
+[ERROR] 2025-05-03 16:43:24.859 [Thread-1] Server - Connection reset
+[INFO ] 2025-05-03 16:43:27.243 [main] Client - Starting client...
+[INFO ] 2025-05-03 16:43:27.252 [main] Client - Sending message...
+[INFO ] 2025-05-03 16:43:27.252 [Thread-2] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 16:43:27.253 [Thread-2] Server - Current thread: Thread-2
+[INFO ] 2025-05-03 16:43:27.253 [Thread-2] Server - All threads: 2
+[INFO ] 2025-05-03 16:43:27.253 [Thread-2] Server - Hello World
+[INFO ] 2025-05-03 16:43:27.254 [Thread-2] RepeatMessageStrategy - Repeating back to client...
+[ERROR] 2025-05-03 16:43:56.886 [Thread-2] Server - Connection reset
+[INFO ] 2025-05-03 16:44:11.179 [main] Client - Starting client...
+[INFO ] 2025-05-03 16:44:11.189 [main] Client - Sending message...
+[INFO ] 2025-05-03 16:44:11.192 [Thread-3] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 16:44:11.193 [Thread-3] Server - Current thread: Thread-3
+[INFO ] 2025-05-03 16:44:11.193 [Thread-3] Server - All threads: 2
+[INFO ] 2025-05-03 16:44:11.193 [Thread-3] Server - Hello World
+[INFO ] 2025-05-03 16:44:11.193 [Thread-3] RepeatMessageStrategy - Repeating back to client...
+[ERROR] 2025-05-03 16:44:36.063 [Thread-3] Server - Connection reset by peer
+[INFO ] 2025-05-03 16:44:41.363 [main] Server - Starting server...
+[INFO ] 2025-05-03 16:44:50.178 [main] Client - Starting client...
+[INFO ] 2025-05-03 16:44:50.187 [main] Client - Sending message...
+[INFO ] 2025-05-03 16:44:50.188 [Thread-0] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 16:44:50.189 [Thread-0] Server - Current thread: Thread-0
+[INFO ] 2025-05-03 16:44:50.191 [Thread-0] Server - All threads: 2
+[INFO ] 2025-05-03 16:44:50.192 [Thread-0] Server - msg Hello World
+[INFO ] 2025-05-03 16:44:50.195 [Thread-0] RepeatMessageStrategy - Repeating back to client...
+[ERROR] 2025-05-03 16:46:28.955 [main] Client - Connection reset
+[INFO ] 2025-05-03 16:46:34.684 [main] Server - Starting server...
+[INFO ] 2025-05-03 16:46:38.394 [main] Client - Starting client...
+[INFO ] 2025-05-03 16:46:38.404 [main] Client - Sending message...
+[INFO ] 2025-05-03 16:46:38.406 [Thread-0] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 16:46:38.406 [Thread-0] Server - Current thread: Thread-0
+[INFO ] 2025-05-03 16:46:38.408 [Thread-0] Server - All threads: 2
+[INFO ] 2025-05-03 16:46:38.409 [Thread-0] Server - msg Hello World
+[INFO ] 2025-05-03 16:46:38.420 [Thread-0] RepeatMessageStrategy - Repeating back to client...
+[INFO ] 2025-05-03 16:46:38.435 [main] Client - Received response: Hello World
+[ERROR] 2025-05-03 16:47:03.692 [Thread-0] Server - Connection reset
+[INFO ] 2025-05-03 16:47:06.727 [main] Client - Starting client...
+[INFO ] 2025-05-03 16:47:06.736 [main] Client - Sending message...
+[INFO ] 2025-05-03 16:47:06.739 [Thread-1] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 16:47:06.740 [Thread-1] Server - Current thread: Thread-1
+[INFO ] 2025-05-03 16:47:06.740 [Thread-1] Server - All threads: 2
+[INFO ] 2025-05-03 16:47:06.740 [Thread-1] Server - msg Hello World
+[INFO ] 2025-05-03 16:47:06.740 [Thread-1] RepeatMessageStrategy - Repeating back to client...
+[INFO ] 2025-05-03 16:47:06.749 [main] Client - Received response: Hello World
+[ERROR] 2025-05-03 16:48:13.915 [main] Client - Connection reset
+[INFO ] 2025-05-03 16:48:18.257 [main] Server - Starting server...
+[INFO ] 2025-05-03 16:48:21.485 [main] Client - Starting client...
+[INFO ] 2025-05-03 16:48:21.494 [main] Client - Sending message...
+[INFO ] 2025-05-03 16:48:21.498 [Thread-0] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 16:48:21.499 [Thread-0] Server - Current thread: Thread-0
+[INFO ] 2025-05-03 16:48:21.501 [Thread-0] Server - All threads: 2
+[INFO ] 2025-05-03 16:48:21.502 [Thread-0] Server - msg Hello World
+[INFO ] 2025-05-03 16:48:21.503 [Thread-0] RepeatMessageStrategy - Repeating back to client...
+[INFO ] 2025-05-03 16:48:21.514 [main] Client - Received response: Hello World
+[INFO ] 2025-05-03 16:48:21.514 [Thread-0] Server - bye
+[INFO ] 2025-05-03 16:48:21.522 [Thread-0] CloseStrategy - Closing socket...
+[INFO ] 2025-05-03 16:48:37.055 [main] Client - Starting client...
+[INFO ] 2025-05-03 16:48:37.066 [main] Client - Sending message...
+[INFO ] 2025-05-03 16:48:37.069 [Thread-1] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 16:48:37.069 [Thread-1] Server - Current thread: Thread-1
+[INFO ] 2025-05-03 16:48:37.069 [Thread-1] Server - All threads: 2
+[INFO ] 2025-05-03 16:48:37.070 [Thread-1] Server - msg Hello World
+[INFO ] 2025-05-03 16:48:37.070 [Thread-1] RepeatMessageStrategy - Repeating back to client...
+[INFO ] 2025-05-03 16:48:37.080 [main] Client - Received response: Hello World
+[INFO ] 2025-05-03 16:48:37.080 [Thread-1] Server - bye
+[INFO ] 2025-05-03 16:48:37.080 [Thread-1] CloseStrategy - Closing socket...
+[INFO ] 2025-05-03 16:49:18.299 [main] Client - Starting client...
+[INFO ] 2025-05-03 16:49:18.307 [main] Client - Sending message...
+[INFO ] 2025-05-03 16:49:18.310 [Thread-2] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 16:49:18.311 [Thread-2] Server - Current thread: Thread-2
+[INFO ] 2025-05-03 16:49:18.311 [Thread-2] Server - All threads: 2
+[INFO ] 2025-05-03 16:49:18.311 [Thread-2] Server - msg Hello World
+[INFO ] 2025-05-03 16:49:18.311 [Thread-2] RepeatMessageStrategy - Repeating back to client...
+[INFO ] 2025-05-03 16:49:18.320 [main] Client - Received response: Hello World
+[INFO ] 2025-05-03 16:49:18.321 [Thread-2] Server - bye
+[INFO ] 2025-05-03 16:49:18.321 [Thread-2] CloseStrategy - Closing socket...
+[INFO ] 2025-05-03 17:03:51.267 [main] Server - Starting server...
+[INFO ] 2025-05-03 17:04:00.210 [main] Client - Starting client...
+[INFO ] 2025-05-03 17:04:00.221 [main] Client - Sending message...
+[INFO ] 2025-05-03 17:04:00.222 [Thread-0] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 17:04:00.222 [Thread-0] Server - Current thread: Thread-0
+[INFO ] 2025-05-03 17:04:00.224 [Thread-0] Server - All threads: 2
+[INFO ] 2025-05-03 17:04:00.226 [Thread-0] Server - msg Hello World
+[INFO ] 2025-05-03 17:04:00.227 [Thread-0] RepeatMessageStrategy - Repeating back to client...
+[INFO ] 2025-05-03 17:04:00.236 [main] Client - Received response: Hi, please input username with setname command.
+[INFO ] 2025-05-03 17:04:00.236 [Thread-0] Server - bye
+[INFO ] 2025-05-03 17:04:00.237 [Thread-0] CloseStrategy - Closing socket...
+[INFO ] 2025-05-03 17:06:36.901 [main] Client - Starting client...
+[INFO ] 2025-05-03 17:06:36.914 [Thread-1] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 17:06:36.914 [Thread-1] Server - Current thread: Thread-1
+[INFO ] 2025-05-03 17:06:36.914 [Thread-1] Server - All threads: 2
+[ERROR] 2025-05-03 17:07:20.219 [Thread-1] Server - Connection reset
+[INFO ] 2025-05-03 17:08:26.551 [main] Client - Starting client...
+[INFO ] 2025-05-03 17:08:26.563 [Thread-2] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 17:08:26.564 [Thread-2] Server - Current thread: Thread-2
+[INFO ] 2025-05-03 17:08:26.564 [Thread-2] Server - All threads: 2
+[INFO ] 2025-05-03 17:08:26.572 [main] Client - Received response: Hi, please input username with setname command.
+[INFO ] 2025-05-03 17:08:33.824 [Thread-2] Server - setname john
+[INFO ] 2025-05-03 17:08:33.831 [main] Client - Received response: Hi, please input username with setname command.
+[INFO ] 2025-05-03 17:12:12.883 [main] Server - Starting server...
+[INFO ] 2025-05-03 17:12:17.265 [main] Client - Starting client...
+[INFO ] 2025-05-03 17:12:17.280 [Thread-0] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 17:12:17.280 [Thread-0] Server - Current thread: Thread-0
+[INFO ] 2025-05-03 17:12:17.282 [Thread-0] Server - All threads: 2
+[INFO ] 2025-05-03 17:12:17.293 [main] Client - Received response: Hi, please input username with setname command.
+[INFO ] 2025-05-03 17:12:21.999 [Thread-0] Server - setname john
+[INFO ] 2025-05-03 17:12:22.010 [main] Client - Received response: Welcome, john.
+[INFO ] 2025-05-03 17:12:27.876 [main] Client - Received response: Hi, please input username with setname command.
+[INFO ] 2025-05-03 17:12:27.876 [Thread-0] Server - bye
+[INFO ] 2025-05-03 17:12:27.877 [Thread-0] CloseStrategy - Closing socket...
+[ERROR] 2025-05-03 17:13:20.807 [main] Client - 你的主机中的软件中止了一个已建立的连接。
+[INFO ] 2025-05-03 17:16:47.916 [main] Client - Starting client...
+[INFO ] 2025-05-03 17:16:47.929 [Thread-1] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 17:16:47.929 [Thread-1] Server - Current thread: Thread-1
+[INFO ] 2025-05-03 17:16:47.929 [Thread-1] Server - All threads: 2
+[INFO ] 2025-05-03 17:16:47.937 [main] Client - Received response: Hi, please input username with setname command.
+[INFO ] 2025-05-03 17:16:54.838 [Thread-1] Server - setname John
+[INFO ] 2025-05-03 17:16:54.839 [main] Client - Received response: Welcome, John.
+[INFO ] 2025-05-03 17:16:57.630 [main] Client - Received response: Hi, please input username with setname command.
+[INFO ] 2025-05-03 17:16:57.630 [Thread-1] Server - bye
+[INFO ] 2025-05-03 17:16:57.631 [Thread-1] CloseStrategy - Closing socket...
+[INFO ] 2025-05-03 18:41:52.032 [main] Server - Starting server...
+[INFO ] 2025-05-03 18:41:55.668 [main] Client - Starting client...
+[INFO ] 2025-05-03 18:41:55.708 [Thread-0] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 18:41:55.708 [Thread-0] Server - Current thread: Thread-0
+[INFO ] 2025-05-03 18:41:55.708 [Thread-0] Server - All threads: 2
+[INFO ] 2025-05-03 18:41:55.722 [main] Client - Received response: Hi, please input username with setname command.
+[INFO ] 2025-05-03 18:42:01.738 [Thread-0] Server - setname John
+[INFO ] 2025-05-03 18:42:01.755 [main] Client - Received response: Welcome, John.
+[INFO ] 2025-05-03 18:42:04.665 [main] Client - Received response: Hi, please input username with setname command.
+[INFO ] 2025-05-03 18:42:04.665 [Thread-0] Server - bye
+[INFO ] 2025-05-03 18:42:04.673 [Thread-0] CloseStrategy - Closing socket...
+[INFO ] 2025-05-03 18:42:30.398 [main] Server - Starting server...
+[INFO ] 2025-05-03 18:42:34.130 [main] Client - Starting client...
+[INFO ] 2025-05-03 18:42:34.158 [Thread-0] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 18:42:34.158 [Thread-0] Server - Current thread: Thread-0
+[INFO ] 2025-05-03 18:42:34.159 [Thread-0] Server - All threads: 2
+[INFO ] 2025-05-03 18:42:34.172 [main] Client - Received response: Hi, please input username with setname command.
+[INFO ] 2025-05-03 18:42:39.465 [Thread-0] Server - setname John
+[INFO ] 2025-05-03 18:42:39.469 [main] Client - Received response: Welcome, John.
+[INFO ] 2025-05-03 18:42:41.789 [Thread-0] Server - bye
+[INFO ] 2025-05-03 18:42:41.789 [main] Client - Received response: Hi, please input username with setname command.
+[INFO ] 2025-05-03 18:42:41.797 [Thread-0] CloseStrategy - Closing socket...
+[ERROR] 2025-05-03 18:43:03.599 [main] Client - 你的主机中的软件中止了一个已建立的连接。
+[INFO ] 2025-05-03 18:43:39.339 [main] Server - Starting server...
+[INFO ] 2025-05-03 18:43:43.166 [main] Client - Starting client...
+[INFO ] 2025-05-03 18:43:43.190 [Thread-0] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 18:43:43.190 [Thread-0] Server - Current thread: Thread-0
+[INFO ] 2025-05-03 18:43:43.190 [Thread-0] Server - All threads: 2
+[INFO ] 2025-05-03 18:43:43.203 [main] Client - Received response: Hi, please input username with setname command.
+[INFO ] 2025-05-03 18:43:47.154 [Thread-0] Server - setname John
+[INFO ] 2025-05-03 18:43:47.161 [main] Client - Received response: Welcome, John.
+[INFO ] 2025-05-03 18:43:49.260 [main] Client - Received response: Hi, please input username with setname command.
+[INFO ] 2025-05-03 18:43:49.260 [Thread-0] Server - bye
+[INFO ] 2025-05-03 18:43:49.270 [Thread-0] CloseStrategy - Closing socket...
+[INFO ] 2025-05-03 18:44:52.680 [main] Server - Starting server...
+[INFO ] 2025-05-03 18:44:59.661 [main] Client - Starting client...
+[INFO ] 2025-05-03 18:44:59.690 [Thread-0] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 18:44:59.690 [Thread-0] Server - Current thread: Thread-0
+[INFO ] 2025-05-03 18:44:59.690 [Thread-0] Server - All threads: 2
+[INFO ] 2025-05-03 18:44:59.704 [main] Client - Received response: Hi, please input username with setname command.
+[INFO ] 2025-05-03 18:45:07.094 [Thread-0] Server - setname John
+[INFO ] 2025-05-03 18:45:07.099 [main] Client - Received response: Welcome, John.
+[INFO ] 2025-05-03 18:45:09.277 [main] Client - Received response: Hi, please input username with setname command.
+[INFO ] 2025-05-03 18:45:09.278 [Thread-0] Server - bye
+[INFO ] 2025-05-03 18:45:09.286 [Thread-0] CloseStrategy - Closing socket...
+[ERROR] 2025-05-03 18:45:35.021 [Thread-0] Server - Connection reset
+[INFO ] 2025-05-03 18:45:36.381 [main] Client - Starting client...
+[INFO ] 2025-05-03 18:45:36.394 [Thread-1] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 18:45:36.395 [Thread-1] Server - Current thread: Thread-1
+[INFO ] 2025-05-03 18:45:36.395 [Thread-1] Server - All threads: 2
+[INFO ] 2025-05-03 18:45:36.405 [main] Client - Received response: Hi, please input username with setname command.
+[INFO ] 2025-05-03 18:45:39.950 [Thread-1] Server - whatever
+[INFO ] 2025-05-03 18:45:39.958 [Thread-1] RepeatMessageStrategy - Repeating back to client...
+[INFO ] 2025-05-03 18:46:34.148 [main] Client - Received response: Hi, please input username with setname command.
+[INFO ] 2025-05-03 18:46:35.503 [main] Client - Received response: Hi, please input username with setname command.
+[INFO ] 2025-05-03 18:46:35.746 [main] Client - Received response: Hi, please input username with setname command.
+[INFO ] 2025-05-03 18:46:51.889 [main] Client - Received response: Hi, please input username with setname command.
+[INFO ] 2025-05-03 18:46:51.889 [Thread-1] Server - w
+[INFO ] 2025-05-03 18:46:51.890 [Thread-1] RepeatMessageStrategy - Repeating back to client...
+[INFO ] 2025-05-03 18:46:55.346 [Thread-1] Server - setcff
+[INFO ] 2025-05-03 18:46:55.346 [Thread-1] RepeatMessageStrategy - Repeating back to client...
+[INFO ] 2025-05-03 18:46:56.337 [main] Client - Received response: Hi, please input username with setname command.
+[INFO ] 2025-05-03 18:48:27.717 [Thread-1] Server - testtesttest
+[INFO ] 2025-05-03 18:48:27.717 [Thread-1] RepeatMessageStrategy - Repeating back to client...
+[INFO ] 2025-05-03 18:48:41.590 [main] Client - Received response: Hi, please input username with setname command.
+[INFO ] 2025-05-03 18:48:57.900 [Thread-1] Server - testtesttest
+[INFO ] 2025-05-03 18:48:57.901 [Thread-1] RepeatMessageStrategy - Repeating back to client...
+[INFO ] 2025-05-03 18:49:42.856 [main] Client - Received response: Hi, please input username with setname command.
+[INFO ] 2025-05-03 18:49:47.631 [main] Server - Starting server...
+[INFO ] 2025-05-03 18:49:56.114 [main] Client - Starting client...
+[INFO ] 2025-05-03 18:49:56.143 [Thread-0] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 18:49:56.144 [Thread-0] Server - Current thread: Thread-0
+[INFO ] 2025-05-03 18:49:56.144 [Thread-0] Server - All threads: 2
+[INFO ] 2025-05-03 18:49:56.159 [main] Client - Received response: Hi, please input username with setname command.
+[INFO ] 2025-05-03 18:50:00.673 [Thread-0] Server - setname John
+[INFO ] 2025-05-03 18:50:00.678 [main] Client - Received response: Welcome, John.
+[INFO ] 2025-05-03 18:50:03.396 [Thread-0] Server - bye
+[INFO ] 2025-05-03 18:50:03.397 [Thread-0] CloseStrategy - Closing socket...
+[INFO ] 2025-05-03 18:50:03.397 [main] Client - Received response: Bye, John.
+[ERROR] 2025-05-03 18:50:25.952 [Thread-0] Server - Connection reset
+[INFO ] 2025-05-03 18:50:29.672 [main] Client - Starting client...
+[INFO ] 2025-05-03 18:50:29.688 [Thread-1] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 18:50:29.688 [Thread-1] Server - Current thread: Thread-1
+[INFO ] 2025-05-03 18:50:29.688 [Thread-1] Server - All threads: 2
+[INFO ] 2025-05-03 18:50:29.699 [main] Client - Received response: Hi, please input username with setname command.
+[INFO ] 2025-05-03 18:50:34.582 [Thread-1] Server - setname John
+[INFO ] 2025-05-03 18:50:34.582 [main] Client - Received response: Welcome, John.
+[INFO ] 2025-05-03 18:50:38.044 [Thread-1] Server - erererere
+[INFO ] 2025-05-03 18:50:38.044 [Thread-1] RepeatMessageStrategy - Repeating back to client...
+[ERROR] 2025-05-03 18:51:49.086 [Thread-1] Server - Connection reset
+[INFO ] 2025-05-03 18:51:52.495 [main] Client - Starting client...
+[INFO ] 2025-05-03 18:51:52.507 [Thread-2] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 18:51:52.507 [Thread-2] Server - Current thread: Thread-2
+[INFO ] 2025-05-03 18:51:52.508 [Thread-2] Server - All threads: 2
+[INFO ] 2025-05-03 18:51:52.518 [main] Client - Received response: Hi, please input username with setname command.
+[INFO ] 2025-05-03 18:51:57.297 [Thread-2] Server - stuff
+[INFO ] 2025-05-03 18:51:57.297 [Thread-2] RepeatMessageStrategy - Repeating back to client...
+[ERROR] 2025-05-03 18:52:07.809 [Thread-2] Server - Connection reset
+[INFO ] 2025-05-03 18:52:08.678 [main] Client - Starting client...
+[INFO ] 2025-05-03 18:52:08.695 [Thread-3] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 18:52:08.695 [Thread-3] Server - Current thread: Thread-3
+[INFO ] 2025-05-03 18:52:08.695 [Thread-3] Server - All threads: 2
+[INFO ] 2025-05-03 18:52:17.654 [main] Client - Received response: Hi, please input username with setname command.
+[INFO ] 2025-05-03 18:52:29.858 [Thread-3] Server - stuff
+[INFO ] 2025-05-03 18:52:29.858 [Thread-3] RepeatMessageStrategy - Repeating back to client...
+[ERROR] 2025-05-03 18:53:06.581 [Thread-3] Server - Connection reset
+[INFO ] 2025-05-03 18:53:10.282 [main] Client - Starting client...
+[INFO ] 2025-05-03 18:53:10.306 [Thread-4] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 18:53:10.306 [Thread-4] Server - Current thread: Thread-4
+[INFO ] 2025-05-03 18:53:10.306 [Thread-4] Server - All threads: 2
+[INFO ] 2025-05-03 18:53:10.317 [main] Client - Received response: Hi, please input username with setname command.
+[INFO ] 2025-05-03 18:53:12.927 [Thread-4] Server - stuff
+[INFO ] 2025-05-03 18:53:12.927 [Thread-4] RepeatMessageStrategy - Repeating back to client...
+[INFO ] 2025-05-03 18:53:12.928 [main] Client - Received response: Hi, please input username with setname command.
+[INFO ] 2025-05-03 18:53:22.522 [Thread-4] Server - setname John
+[INFO ] 2025-05-03 18:53:22.522 [main] Client - Received response: Name John already exists, please choose another name.
+[INFO ] 2025-05-03 18:53:29.941 [main] Client - Received response: Hi, please input username with setname command.
+[INFO ] 2025-05-03 18:53:29.941 [Thread-4] Server - setname Kane
+[INFO ] 2025-05-03 18:53:53.292 [main] Server - Starting server...
+[INFO ] 2025-05-03 18:53:57.568 [main] Client - Starting client...
+[INFO ] 2025-05-03 18:53:57.593 [Thread-0] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 18:53:57.594 [Thread-0] Server - Current thread: Thread-0
+[INFO ] 2025-05-03 18:53:57.594 [Thread-0] Server - All threads: 2
+[INFO ] 2025-05-03 18:53:57.608 [main] Client - Received response: Hi, please input username with setname command.
+[INFO ] 2025-05-03 18:54:02.766 [Thread-0] Server - setname Kane
+[INFO ] 2025-05-03 18:54:02.770 [main] Client - Received response: Welcome, Kane.
+[INFO ] 2025-05-03 18:54:07.734 [Thread-0] Server - shesheshe
+[INFO ] 2025-05-03 18:54:07.735 [Thread-0] RepeatMessageStrategy - Repeating back to client...
+[ERROR] 2025-05-03 18:54:35.915 [Thread-0] Server - Connection reset
+[INFO ] 2025-05-03 18:54:39.544 [main] Client - Starting client...
+[INFO ] 2025-05-03 18:54:39.561 [Thread-1] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 18:54:39.561 [Thread-1] Server - Current thread: Thread-1
+[INFO ] 2025-05-03 18:54:39.561 [Thread-1] Server - All threads: 2
+[INFO ] 2025-05-03 18:54:42.354 [main] Client - Received response: Hi, please input username with setname command.
+[INFO ] 2025-05-03 18:54:50.498 [Thread-1] Server - shesheshe
+[INFO ] 2025-05-03 18:54:54.429 [Thread-1] RepeatMessageStrategy - Repeating back to client...
+[INFO ] 2025-05-03 18:55:24.952 [main] Server - Starting server...
+[ERROR] 2025-05-03 18:55:36.470 [main] Client - Connection reset
+[INFO ] 2025-05-03 18:55:37.304 [main] Client - Starting client...
+[INFO ] 2025-05-03 18:55:37.330 [Thread-0] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 18:55:37.332 [Thread-0] Server - Current thread: Thread-0
+[INFO ] 2025-05-03 18:55:37.332 [Thread-0] Server - All threads: 2
+[INFO ] 2025-05-03 18:55:37.347 [main] Client - Received response: Hi, please input username with setname command.
+[INFO ] 2025-05-03 18:55:40.209 [Thread-0] Server - shesheshe
+[INFO ] 2025-05-03 18:55:40.218 [Thread-0] RepeatMessageStrategy - Repeating back to client...
+[INFO ] 2025-05-03 18:55:40.223 [main] Client - Received response: shesheshe 
+[INFO ] 2025-05-03 18:55:45.040 [main] Client - Received response: Hi, please input username with setname command.
+[INFO ] 2025-05-03 18:55:45.040 [Thread-0] Server - setname Kane
+[INFO ] 2025-05-03 18:55:49.258 [main] Client - Received response: Welcome, Kane.
+[INFO ] 2025-05-03 18:55:49.258 [Thread-0] Server - shesheshe
+[INFO ] 2025-05-03 18:55:49.258 [Thread-0] RepeatMessageStrategy - Repeating back to client...
+[ERROR] 2025-05-03 18:57:15.540 [Thread-0] Server - Connection reset
+[INFO ] 2025-05-03 18:57:18.083 [main] Client - Starting client...
+[INFO ] 2025-05-03 18:57:18.096 [Thread-1] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 18:57:18.096 [Thread-1] Server - Current thread: Thread-1
+[INFO ] 2025-05-03 18:57:18.096 [Thread-1] Server - All threads: 2
+[INFO ] 2025-05-03 18:57:18.106 [main] Client - Received response: Hi, please input username with setname command.
+[ERROR] 2025-05-03 18:57:32.926 [main] Client - java.net.SocketException: Connection reset
+[INFO ] 2025-05-03 18:57:36.764 [main] Server - Starting server...
+[INFO ] 2025-05-03 18:57:40.753 [main] Client - Starting client...
+[INFO ] 2025-05-03 18:57:40.777 [Thread-0] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 18:57:40.777 [Thread-0] Server - Current thread: Thread-0
+[INFO ] 2025-05-03 18:57:40.778 [Thread-0] Server - All threads: 2
+[INFO ] 2025-05-03 18:57:40.792 [main] Client - Received response: Hi, please input username with setname command.
+[ERROR] 2025-05-03 18:58:02.830 [main] Client - java.net.SocketException: Connection reset
+[INFO ] 2025-05-03 18:58:05.014 [main] Server - Starting server...
+[INFO ] 2025-05-03 18:58:07.686 [main] Client - Starting client...
+[INFO ] 2025-05-03 18:58:07.713 [Thread-0] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 18:58:07.713 [Thread-0] Server - Current thread: Thread-0
+[INFO ] 2025-05-03 18:58:07.713 [Thread-0] Server - All threads: 2
+[INFO ] 2025-05-03 18:58:12.318 [main] Client - Received response: Hi, please input username with setname command.
+[ERROR] 2025-05-03 18:59:32.227 [Thread-0] Server - Connection reset
+[INFO ] 2025-05-03 18:59:36.386 [main] Client - Starting client...
+[INFO ] 2025-05-03 18:59:36.399 [Thread-1] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 18:59:36.400 [Thread-1] Server - Current thread: Thread-1
+[INFO ] 2025-05-03 18:59:36.400 [Thread-1] Server - All threads: 2
+[INFO ] 2025-05-03 18:59:36.410 [main] Client - Received response: Hi, please input username with setname command.
+[ERROR] 2025-05-03 18:59:48.427 [main] Client - java.net.SocketException: Connection reset
+[INFO ] 2025-05-03 18:59:53.162 [main] Server - Starting server...
+[INFO ] 2025-05-03 18:59:56.159 [main] Client - Starting client...
+[INFO ] 2025-05-03 18:59:56.186 [Thread-0] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 18:59:56.187 [Thread-0] Server - Current thread: Thread-0
+[INFO ] 2025-05-03 18:59:56.187 [Thread-0] Server - All threads: 2
+[INFO ] 2025-05-03 18:59:56.200 [main] Client - Received response: Hi, please input username with setname command.
+[ERROR] 2025-05-03 19:00:16.151 [Thread-0] Server - Connection reset
+[INFO ] 2025-05-03 19:00:18.001 [main] Client - Starting client...
+[INFO ] 2025-05-03 19:00:18.013 [Thread-1] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 19:00:18.013 [Thread-1] Server - Current thread: Thread-1
+[INFO ] 2025-05-03 19:00:18.014 [Thread-1] Server - All threads: 2
+[INFO ] 2025-05-03 19:00:23.450 [main] Client - Received response: Hi, please input username with setname command.
+[ERROR] 2025-05-03 19:31:11.761 [Thread-1] Server - Connection reset
+[INFO ] 2025-05-03 19:31:22.094 [main] Server - Starting server...
+[INFO ] 2025-05-03 19:31:29.244 [main] Client - Starting client...
+[INFO ] 2025-05-03 19:31:29.272 [Thread-0] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 19:31:29.272 [Thread-0] Server - Current thread: Thread-0
+[INFO ] 2025-05-03 19:31:29.272 [Thread-0] Server - All threads: 2
+[INFO ] 2025-05-03 19:31:29.285 [main] Client - Received response: Hi, please input username with setname command.
+[ERROR] 2025-05-03 19:32:24.708 [Thread-0] Server - Connection reset
+[INFO ] 2025-05-03 19:32:27.139 [main] Client - Starting client...
+[INFO ] 2025-05-03 19:32:27.154 [Thread-1] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 19:32:27.155 [Thread-1] Server - Current thread: Thread-1
+[INFO ] 2025-05-03 19:32:27.155 [Thread-1] Server - All threads: 2
+[INFO ] 2025-05-03 19:32:29.763 [main] Client - Received response: Hi, please input username with setname command.
+[ERROR] 2025-05-03 19:33:26.972 [Thread-1] Server - Connection reset
+[INFO ] 2025-05-03 19:33:30.969 [main] Client - Starting client...
+[INFO ] 2025-05-03 19:33:30.980 [Thread-2] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 19:33:30.981 [Thread-2] Server - Current thread: Thread-2
+[INFO ] 2025-05-03 19:33:30.981 [Thread-2] Server - All threads: 2
+[INFO ] 2025-05-03 19:33:30.991 [main] Client - Received response: Hi, please input username with setname command.
+[INFO ] 2025-05-03 19:33:48.102 [Thread-2] Server - setname John
+[INFO ] 2025-05-03 19:33:48.107 [main] Client - Received response: Welcome, John.
+[INFO ] 2025-05-03 19:33:52.476 [Thread-2] Server - bye
+[INFO ] 2025-05-03 19:33:52.477 [Thread-2] CloseStrategy - Closing socket...
+[INFO ] 2025-05-03 19:33:52.478 [main] Client - Received response: Bye, John.
+[INFO ] 2025-05-03 19:34:24.530 [main] Client - Starting client...
+[INFO ] 2025-05-03 19:34:24.543 [Thread-3] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 19:34:24.544 [Thread-3] Server - Current thread: Thread-3
+[INFO ] 2025-05-03 19:34:24.544 [Thread-3] Server - All threads: 2
+[INFO ] 2025-05-03 19:34:24.552 [main] Client - Received response: Hi, please input username with setname command.
+[INFO ] 2025-05-03 19:34:30.017 [Thread-3] Server - setname Kane
+[INFO ] 2025-05-03 19:34:30.017 [main] Client - Received response: Welcome, Kane.
+[INFO ] 2025-05-03 19:34:32.229 [Thread-3] Server - bye
+[INFO ] 2025-05-03 19:34:32.230 [Thread-3] CloseStrategy - Closing socket...
+[INFO ] 2025-05-03 19:34:32.230 [main] Client - Received response: Bye, Kane.
+[ERROR] 2025-05-03 19:34:33.533 [main] Client - 你的主机中的软件中止了一个已建立的连接。
+[INFO ] 2025-05-03 19:35:19.001 [main] Client - Starting client...
+[INFO ] 2025-05-03 19:35:19.015 [Thread-4] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 19:35:19.015 [Thread-4] Server - Current thread: Thread-4
+[INFO ] 2025-05-03 19:35:19.015 [Thread-4] Server - All threads: 2
+[ERROR] 2025-05-03 19:35:22.360 [main] Client - Connection reset
+[INFO ] 2025-05-03 19:35:23.157 [main] Server - Starting server...
+[INFO ] 2025-05-03 19:35:30.097 [main] Client - Starting client...
+[INFO ] 2025-05-03 19:35:30.123 [Thread-0] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 19:35:30.123 [Thread-0] Server - Current thread: Thread-0
+[INFO ] 2025-05-03 19:35:30.123 [Thread-0] Server - All threads: 2
+[ERROR] 2025-05-03 19:35:44.620 [Thread-0] Server - Connection reset
+[INFO ] 2025-05-03 19:35:45.521 [main] Client - Starting client...
+[INFO ] 2025-05-03 19:35:45.537 [Thread-1] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 19:35:45.537 [Thread-1] Server - Current thread: Thread-1
+[INFO ] 2025-05-03 19:35:45.537 [Thread-1] Server - All threads: 2
+[ERROR] 2025-05-03 19:36:12.856 [Thread-1] Server - Connection reset
+[INFO ] 2025-05-03 19:36:14.779 [main] Client - Starting client...
+[INFO ] 2025-05-03 19:36:14.792 [Thread-2] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 19:36:14.792 [Thread-2] Server - Current thread: Thread-2
+[INFO ] 2025-05-03 19:36:14.792 [Thread-2] Server - All threads: 2
+[ERROR] 2025-05-03 19:36:17.745 [main] Client - Connection reset
+[INFO ] 2025-05-03 19:36:18.580 [main] Server - Starting server...
+[INFO ] 2025-05-03 19:36:24.632 [main] Client - Starting client...
+[INFO ] 2025-05-03 19:36:27.301 [Thread-0] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 19:36:27.752 [Thread-0] Server - Current thread: Thread-0
+[INFO ] 2025-05-03 19:36:28.855 [Thread-0] Server - All threads: 2
+[ERROR] 2025-05-03 19:37:17.848 [Thread-0] Server - Connection reset
+[INFO ] 2025-05-03 19:37:19.120 [main] Client - Starting client...
+[INFO ] 2025-05-03 19:37:23.418 [Thread-1] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 19:37:24.206 [Thread-1] Server - Current thread: Thread-1
+[INFO ] 2025-05-03 19:37:27.252 [Thread-1] Server - All threads: 2
+[ERROR] 2025-05-03 19:37:39.462 [Thread-1] Server - Connection reset
+[INFO ] 2025-05-03 19:37:42.126 [main] Client - Starting client...
+[ERROR] 2025-05-03 19:37:42.139 [main] Client - Connection refused: connect
+[INFO ] 2025-05-03 19:37:48.049 [main] Server - Starting server...
+[INFO ] 2025-05-03 19:37:55.982 [main] Client - Starting client...
+[INFO ] 2025-05-03 19:37:56.006 [Thread-0] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 19:37:56.007 [Thread-0] Server - Current thread: Thread-0
+[INFO ] 2025-05-03 19:37:56.007 [Thread-0] Server - All threads: 2
+[ERROR] 2025-05-03 19:38:26.144 [Thread-0] Server - Connection reset
+[INFO ] 2025-05-03 19:38:30.583 [main] Client - Starting client...
+[INFO ] 2025-05-03 19:38:30.596 [Thread-1] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 19:38:30.596 [Thread-1] Server - Current thread: Thread-1
+[INFO ] 2025-05-03 19:38:30.596 [Thread-1] Server - All threads: 2
+[INFO ] 2025-05-03 19:38:34.025 [main] Client - Received response: Hi, please input username with setname command.
+[INFO ] 2025-05-03 19:38:41.413 [Thread-1] Server - setname John
+[INFO ] 2025-05-03 19:38:41.417 [main] Client - Received response: Welcome, John.
+[INFO ] 2025-05-03 19:38:44.988 [Thread-1] Server - bye
+[INFO ] 2025-05-03 19:38:44.989 [Thread-1] CloseStrategy - Closing socket...
+[INFO ] 2025-05-03 19:38:44.990 [main] Client - Received response: Bye, John.
+[ERROR] 2025-05-03 19:38:47.378 [main] Client - 你的主机中的软件中止了一个已建立的连接。
+[INFO ] 2025-05-03 19:38:58.151 [main] Client - Starting client...
+[INFO ] 2025-05-03 19:38:58.166 [Thread-2] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 19:38:58.167 [Thread-2] Server - Current thread: Thread-2
+[INFO ] 2025-05-03 19:38:58.167 [Thread-2] Server - All threads: 2
+[INFO ] 2025-05-03 19:38:58.177 [main] Client - Received response: Hi, please input username with setname command.
+[INFO ] 2025-05-03 19:39:04.681 [Thread-2] Server - setname Kane
+[INFO ] 2025-05-03 19:39:04.681 [main] Client - Received response: Welcome, Kane.
+[INFO ] 2025-05-03 19:39:13.711 [Thread-2] Server - bye
+[INFO ] 2025-05-03 19:39:13.711 [Thread-2] CloseStrategy - Closing socket...
+[INFO ] 2025-05-03 19:42:12.720 [main] Client - Received response: Bye, Kane.
+[INFO ] 2025-05-03 19:42:17.132 [main] Server - Starting server...
+[INFO ] 2025-05-03 19:42:25.076 [main] Client - Starting client...
+[INFO ] 2025-05-03 19:42:25.103 [Thread-0] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 19:42:25.103 [Thread-0] Server - Current thread: Thread-0
+[INFO ] 2025-05-03 19:42:25.103 [Thread-0] Server - All threads: 2
+[INFO ] 2025-05-03 19:42:25.115 [main] Client - Received response: Hi, please input username with setname command.
+[INFO ] 2025-05-03 19:42:32.671 [Thread-0] Server - setname Kane
+[INFO ] 2025-05-03 19:42:32.678 [main] Client - Received response: Welcome, Kane.
+[INFO ] 2025-05-03 19:42:35.425 [Thread-0] Server - bye
+[INFO ] 2025-05-03 19:42:35.433 [Thread-0] CloseStrategy - Closing socket...
+[INFO ] 2025-05-03 19:42:35.434 [main] Client - Received response: Bye, Kane.
+[INFO ] 2025-05-03 19:42:46.416 [main] Client - Starting client...
+[INFO ] 2025-05-03 19:42:46.429 [Thread-1] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 19:42:46.429 [Thread-1] Server - Current thread: Thread-1
+[INFO ] 2025-05-03 19:42:46.429 [Thread-1] Server - All threads: 2
+[INFO ] 2025-05-03 19:42:46.438 [main] Client - Received response: Hi, please input username with setname command.
+[INFO ] 2025-05-03 19:42:52.081 [Thread-1] Server - setname Kane
+[INFO ] 2025-05-03 19:42:52.081 [main] Client - Received response: Welcome, Kane.
+[INFO ] 2025-05-03 19:42:53.892 [Thread-1] Server - echo
+[INFO ] 2025-05-03 19:42:53.894 [Thread-1] RepeatMessageStrategy - Repeating back to client...
+[INFO ] 2025-05-03 19:42:53.897 [main] Client - Received response: echo 
+[INFO ] 2025-05-03 19:42:56.976 [Thread-1] Server - bye
+[INFO ] 2025-05-03 19:42:56.976 [Thread-1] CloseStrategy - Closing socket...
+[INFO ] 2025-05-03 19:42:56.977 [main] Client - Received response: Bye, Kane.
+[INFO ] 2025-05-03 19:53:20.038 [main] Server - Starting server...
+[INFO ] 2025-05-03 19:53:23.396 [main] Client - Starting client...
+[INFO ] 2025-05-03 19:53:23.422 [Thread-0] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 19:53:23.422 [Thread-0] Server - Current thread: Thread-0
+[INFO ] 2025-05-03 19:53:23.422 [Thread-0] Server - All threads: 2
+[INFO ] 2025-05-03 19:53:23.434 [main] Client - Received response: Hi, please input username with setname command.
+[INFO ] 2025-05-03 19:53:29.533 [Thread-0] Server - setname John
+[INFO ] 2025-05-03 19:53:29.537 [main] Client - Received response: Welcome, John.
+[ERROR] 2025-05-03 19:53:53.071 [Thread-0] Server - Connection reset
+[INFO ] 2025-05-03 19:53:59.994 [main] Client - Starting client...
+[INFO ] 2025-05-03 19:54:00.002 [Thread-1] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 19:54:00.002 [Thread-1] Server - Current thread: Thread-1
+[INFO ] 2025-05-03 19:54:00.003 [Thread-1] Server - All threads: 2
+[INFO ] 2025-05-03 19:54:00.005 [main] Client - Received response: Hi, please input username with setname command.
+[INFO ] 2025-05-03 19:54:08.999 [Thread-1] Server - setname John
+[INFO ] 2025-05-03 19:54:08.999 [main] Client - Received response: Name John already exists, please choose another name.
+[INFO ] 2025-05-03 19:54:15.789 [main] Server - Starting server...
+[INFO ] 2025-05-03 19:54:23.932 [main] Client - Starting client...
+[INFO ] 2025-05-03 19:54:23.940 [Thread-0] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 19:54:23.941 [Thread-0] Server - Current thread: Thread-0
+[INFO ] 2025-05-03 19:54:23.941 [Thread-0] Server - All threads: 3
+[INFO ] 2025-05-03 19:54:23.944 [main] Client - Received response: Hi, please input username with setname command.
+[INFO ] 2025-05-03 19:54:37.777 [Thread-0] Server - setname John
+[INFO ] 2025-05-03 19:54:37.779 [main] Client - Received response: Welcome, John.
+[INFO ] 2025-05-03 19:55:46.108 [main] Client - Starting client...
+[INFO ] 2025-05-03 19:55:46.114 [Thread-1] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 19:55:46.114 [Thread-1] Server - Current thread: Thread-1
+[INFO ] 2025-05-03 19:55:46.115 [Thread-1] Server - All threads: 4
+[INFO ] 2025-05-03 19:55:46.117 [main] Client - Received response: Hi, please input username with setname command.
+[INFO ] 2025-05-03 19:55:51.810 [Thread-1] Server - setname John
+[INFO ] 2025-05-03 19:55:51.810 [main] Client - Received response: Name John already exists, please choose another name.
+[INFO ] 2025-05-03 19:55:56.305 [main] Client - Received response: Hi, please input username with setname command.
+[INFO ] 2025-05-03 19:55:56.305 [Thread-1] Server - setname Kane
+[INFO ] 2025-05-03 19:56:11.411 [main] Client - Starting client...
+[INFO ] 2025-05-03 19:56:11.416 [Thread-2] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 19:56:11.417 [Thread-2] Server - Current thread: Thread-2
+[INFO ] 2025-05-03 19:56:11.417 [Thread-2] Server - All threads: 5
+[INFO ] 2025-05-03 19:56:11.419 [main] Client - Received response: Hi, please input username with setname command.
+[INFO ] 2025-05-03 19:56:38.360 [Thread-2] Server - setname Arnoid
+[INFO ] 2025-05-03 19:56:38.360 [main] Client - Received response: Welcome, Arnoid.
+[INFO ] 2025-05-03 19:56:56.153 [Thread-0] Server - toall hi
+[ERROR] 2025-05-03 19:57:48.826 [main] Client - Connection reset
+[ERROR] 2025-05-03 19:57:53.737 [main] Client - Connection reset
+[ERROR] 2025-05-03 19:57:56.650 [main] Client - Connection reset
+[INFO ] 2025-05-03 19:58:00.671 [main] Server - Starting server...
+[INFO ] 2025-05-03 19:58:07.323 [main] Client - Starting client...
+[INFO ] 2025-05-03 19:58:07.331 [Thread-0] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 19:58:07.331 [Thread-0] Server - Current thread: Thread-0
+[INFO ] 2025-05-03 19:58:07.331 [Thread-0] Server - All threads: 3
+[INFO ] 2025-05-03 19:58:07.334 [main] Client - Received response: Hi, please input username with setname command.
+[INFO ] 2025-05-03 19:58:11.681 [Thread-0] Server - setname John
+[INFO ] 2025-05-03 19:58:11.682 [main] Client - Received response: Welcome, John.
+[INFO ] 2025-05-03 19:58:17.101 [main] Client - Starting client...
+[INFO ] 2025-05-03 19:58:17.109 [Thread-1] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 19:58:17.109 [Thread-1] Server - Current thread: Thread-1
+[INFO ] 2025-05-03 19:58:17.109 [Thread-1] Server - All threads: 4
+[INFO ] 2025-05-03 19:58:17.112 [main] Client - Received response: Hi, please input username with setname command.
+[INFO ] 2025-05-03 19:58:21.155 [Thread-1] Server - setname Kane
+[INFO ] 2025-05-03 19:58:21.156 [main] Client - Received response: Welcome, Kane.
+[INFO ] 2025-05-03 19:58:26.287 [main] Client - Starting client...
+[INFO ] 2025-05-03 19:58:26.292 [Thread-2] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 19:58:26.292 [Thread-2] Server - Current thread: Thread-2
+[INFO ] 2025-05-03 19:58:26.292 [Thread-2] Server - All threads: 5
+[INFO ] 2025-05-03 19:58:26.295 [main] Client - Received response: Hi, please input username with setname command.
+[INFO ] 2025-05-03 19:58:32.325 [Thread-2] Server - setname Bruce
+[INFO ] 2025-05-03 19:58:32.325 [main] Client - Received response: Welcome, Bruce.
+[INFO ] 2025-05-03 19:58:39.667 [Thread-0] Server - toall hi
+[ERROR] 2025-05-03 20:00:28.491 [main] Client - Connection reset
+[ERROR] 2025-05-03 20:00:30.746 [main] Client - Connection reset
+[ERROR] 2025-05-03 20:00:32.877 [main] Client - Connection reset
+[INFO ] 2025-05-03 20:00:39.661 [main] Server - Starting server...
+[INFO ] 2025-05-03 20:01:10.135 [main] Server - Starting server...
+[INFO ] 2025-05-03 20:01:13.098 [main] Client - Starting client...
+[INFO ] 2025-05-03 20:01:13.106 [Thread-0] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 20:01:13.106 [Thread-0] Server - Current thread: Thread-0
+[INFO ] 2025-05-03 20:01:13.107 [Thread-0] Server - All threads: 3
+[INFO ] 2025-05-03 20:01:13.109 [main] Client - Received response: Hi, please input username with setname command.
+[INFO ] 2025-05-03 20:01:17.784 [Thread-0] Server - setname John
+[INFO ] 2025-05-03 20:01:17.794 [main] Client - Received response: Welcome, John.
+[INFO ] 2025-05-03 20:01:22.307 [main] Client - Starting client...
+[INFO ] 2025-05-03 20:01:22.315 [Thread-1] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 20:01:22.316 [Thread-1] Server - Current thread: Thread-1
+[INFO ] 2025-05-03 20:01:22.316 [Thread-1] Server - All threads: 4
+[INFO ] 2025-05-03 20:01:22.319 [main] Client - Received response: Hi, please input username with setname command.
+[INFO ] 2025-05-03 20:01:29.057 [Thread-1] Server - setname Kane
+[INFO ] 2025-05-03 20:01:29.057 [main] Client - Received response: Welcome, Kane.
+[INFO ] 2025-05-03 20:01:33.609 [main] Client - Starting client...
+[INFO ] 2025-05-03 20:01:33.615 [Thread-2] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 20:01:33.615 [Thread-2] Server - Current thread: Thread-2
+[INFO ] 2025-05-03 20:01:33.615 [Thread-2] Server - All threads: 5
+[INFO ] 2025-05-03 20:01:33.618 [main] Client - Received response: Hi, please input username with setname command.
+[INFO ] 2025-05-03 20:01:37.425 [Thread-2] Server - setname Bruce
+[INFO ] 2025-05-03 20:01:37.425 [main] Client - Received response: Welcome, Bruce.
+[INFO ] 2025-05-03 20:01:51.501 [John] Server - toall Hi
+[INFO ] 2025-05-03 20:01:51.512 [main] Client - Received response: Message sent.
+[ERROR] 2025-05-03 20:04:20.799 [John] Server - Connection reset
+[INFO ] 2025-05-03 20:04:22.416 [main] Client - Starting client...
+[INFO ] 2025-05-03 20:04:22.422 [Thread-3] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 20:04:22.422 [Thread-3] Server - Current thread: Thread-3
+[INFO ] 2025-05-03 20:04:22.422 [Thread-3] Server - All threads: 5
+[INFO ] 2025-05-03 20:04:22.425 [Thread-0] Client - Received response: Hi, please input username with setname command.
+[INFO ] 2025-05-03 20:04:25.840 [main] Server - Starting server...
+[INFO ] 2025-05-03 20:04:29.380 [main] Client - Starting client...
+[INFO ] 2025-05-03 20:04:29.389 [Thread-0] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 20:04:29.389 [Thread-0] Server - Current thread: Thread-0
+[INFO ] 2025-05-03 20:04:29.390 [Thread-0] Server - All threads: 3
+[INFO ] 2025-05-03 20:04:29.393 [Thread-0] Client - Received response: Hi, please input username with setname command.
+[INFO ] 2025-05-03 20:04:33.533 [main] Client - Starting client...
+[INFO ] 2025-05-03 20:04:33.539 [Thread-1] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 20:04:33.539 [Thread-1] Server - Current thread: Thread-1
+[INFO ] 2025-05-03 20:04:33.539 [Thread-1] Server - All threads: 4
+[INFO ] 2025-05-03 20:04:33.542 [Thread-0] Client - Received response: Hi, please input username with setname command.
+[INFO ] 2025-05-03 20:04:37.040 [main] Client - Starting client...
+[INFO ] 2025-05-03 20:04:37.050 [Thread-2] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 20:04:37.051 [Thread-2] Server - Current thread: Thread-2
+[INFO ] 2025-05-03 20:04:37.051 [Thread-2] Server - All threads: 5
+[INFO ] 2025-05-03 20:04:37.054 [Thread-0] Client - Received response: Hi, please input username with setname command.
+[INFO ] 2025-05-03 20:04:45.689 [Thread-0] Server - setname John
+[INFO ] 2025-05-03 20:04:45.690 [Thread-0] Client - Received response: Welcome, John.
+[INFO ] 2025-05-03 20:04:52.333 [Thread-1] Server - setname Kane
+[INFO ] 2025-05-03 20:04:52.333 [Thread-0] Client - Received response: Welcome, Kane.
+[INFO ] 2025-05-03 20:04:58.482 [Thread-2] Server - setname Bruce
+[INFO ] 2025-05-03 20:04:58.482 [Thread-0] Client - Received response: Welcome, Bruce.
+[INFO ] 2025-05-03 20:05:04.260 [John] Server - toall Hi
+[INFO ] 2025-05-03 20:05:04.261 [Thread-0] Client - Received response: Hi
+[INFO ] 2025-05-03 20:05:04.261 [Thread-0] Client - Received response: Hi
+[INFO ] 2025-05-03 20:05:04.261 [Thread-0] Client - Received response: Message sent.
+[INFO ] 2025-05-03 20:05:24.320 [John] Server - touser Kane Hi kane
+[INFO ] 2025-05-03 20:05:24.329 [Thread-0] Client - Received response: Kane Hi kane
+[INFO ] 2025-05-03 20:05:24.329 [Thread-0] Client - Received response: Message sent.
+[ERROR] 2025-05-03 20:06:29.076 [John] Server - Connection reset
+[ERROR] 2025-05-03 20:06:30.700 [Kane] Server - Connection reset
+[ERROR] 2025-05-03 20:06:32.485 [Bruce] Server - Connection reset
+[INFO ] 2025-05-03 20:06:36.393 [main] Server - Starting server...
+[INFO ] 2025-05-03 20:06:51.099 [main] Client - Starting client...
+[INFO ] 2025-05-03 20:06:51.107 [Thread-0] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 20:06:51.107 [Thread-0] Server - Current thread: Thread-0
+[INFO ] 2025-05-03 20:06:51.108 [Thread-0] Server - All threads: 3
+[INFO ] 2025-05-03 20:06:51.110 [Thread-0] Client - Received response: Hi, please input username with setname command.
+[INFO ] 2025-05-03 20:06:55.657 [Thread-0] Server - setname John
+[INFO ] 2025-05-03 20:06:55.658 [Thread-0] Client - Received response: Welcome, John.
+[INFO ] 2025-05-03 20:06:59.980 [main] Client - Starting client...
+[INFO ] 2025-05-03 20:06:59.991 [Thread-1] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 20:06:59.991 [Thread-1] Server - Current thread: Thread-1
+[INFO ] 2025-05-03 20:06:59.991 [Thread-1] Server - All threads: 4
+[INFO ] 2025-05-03 20:06:59.994 [Thread-0] Client - Received response: Hi, please input username with setname command.
+[INFO ] 2025-05-03 20:07:03.472 [Thread-1] Server - setname kane
+[INFO ] 2025-05-03 20:07:03.472 [Thread-0] Client - Received response: Welcome, kane.
+[INFO ] 2025-05-03 20:07:07.970 [main] Client - Starting client...
+[INFO ] 2025-05-03 20:07:07.976 [Thread-2] Server - 127.0.0.1 has connected.
+[INFO ] 2025-05-03 20:07:07.976 [Thread-2] Server - Current thread: Thread-2
+[INFO ] 2025-05-03 20:07:07.976 [Thread-2] Server - All threads: 5
+[INFO ] 2025-05-03 20:07:07.979 [Thread-0] Client - Received response: Hi, please input username with setname command.
+[INFO ] 2025-05-03 20:07:14.577 [Thread-2] Server - setname Rubic
+[INFO ] 2025-05-03 20:07:14.577 [Thread-0] Client - Received response: Welcome, Rubic.
+[INFO ] 2025-05-03 20:07:23.072 [kane] Server - toall Hi
+[INFO ] 2025-05-03 20:07:23.082 [Thread-0] Client - Received response: From kane: Hi
+[INFO ] 2025-05-03 20:07:23.082 [Thread-0] Client - Received response: From kane: Hi
+[INFO ] 2025-05-03 20:07:23.082 [Thread-0] Client - Received response: Message sent.
+[INFO ] 2025-05-03 20:07:36.857 [John] Server - touser kane Hi kane
+[INFO ] 2025-05-03 20:07:36.866 [Thread-0] Client - Received response: From John: Hi kane
+[INFO ] 2025-05-03 20:07:36.866 [Thread-0] Client - Received response: Message sent.
